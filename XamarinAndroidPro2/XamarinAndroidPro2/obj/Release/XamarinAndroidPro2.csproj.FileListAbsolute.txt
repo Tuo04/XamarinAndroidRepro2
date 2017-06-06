@@ -19,3 +19,4 @@ C:\Users\v-tuchen\XamarinAndroidRepro2\XamarinAndroidPro2\XamarinAndroidPro2\obj
 C:\Users\v-tuchen\XamarinAndroidRepro2\XamarinAndroidPro2\XamarinAndroidPro2\obj\Release\uploadflags.txt
 C:\Users\v-tuchen\XamarinAndroidRepro2\XamarinAndroidPro2\XamarinAndroidPro2\bin\Release\XamarinAndroidPro2.dll.mdb
 C:\Users\v-tuchen\XamarinAndroidRepro2\XamarinAndroidPro2\XamarinAndroidPro2\obj\Release\android\assets\XamarinAndroidPro2.dll.mdb
+C:\Users\v-tuchen\XamarinAndroidRepro2\XamarinAndroidPro2\XamarinAndroidPro2\obj\Release\XamarinAndroidPro2.csprojResolveAssemblyReference.cache
