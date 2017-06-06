@@ -17,3 +17,5 @@ C:\Users\v-tuchen\XamarinAndroidRepro2\XamarinAndroidPro2\XamarinAndroidPro2\obj
 C:\Users\v-tuchen\XamarinAndroidRepro2\XamarinAndroidPro2\XamarinAndroidPro2\obj\Release\res\drawable\icon.png
 C:\Users\v-tuchen\XamarinAndroidRepro2\XamarinAndroidPro2\XamarinAndroidPro2\obj\Release\R.cs.flag
 C:\Users\v-tuchen\XamarinAndroidRepro2\XamarinAndroidPro2\XamarinAndroidPro2\obj\Release\uploadflags.txt
+C:\Users\v-tuchen\XamarinAndroidRepro2\XamarinAndroidPro2\XamarinAndroidPro2\bin\Release\XamarinAndroidPro2.dll.mdb
+C:\Users\v-tuchen\XamarinAndroidRepro2\XamarinAndroidPro2\XamarinAndroidPro2\obj\Release\android\assets\XamarinAndroidPro2.dll.mdb
