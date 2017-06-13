@@ -14,6 +14,8 @@ namespace XamarinAndroidPro2
         {
             base.OnCreate(bundle);
 
+            MobileCenter.SetLogUrl("https://in-staging-south-centralus.staging.avalanch.es");
+
             // Set our view from the "main" layout resource
             SetContentView (Resource.Layout.Main);
 
